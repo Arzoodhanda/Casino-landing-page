@@ -1,1 +1,1 @@
-# Casino-landing-page
+# Game-landing-page
